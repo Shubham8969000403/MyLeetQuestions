@@ -26,5 +26,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0089-gray-code](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0089-gray-code/) | Medium |
 | [0263-ugly-number](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0263-ugly-number/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0089-gray-code](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0089-gray-code/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0089-gray-code](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0089-gray-code/) | Medium |
 <!---LeetCode Topics End-->
