@@ -36,4 +36,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0089-gray-code](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0089-gray-code/) | Medium |
+| [0190-reverse-bits](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0190-reverse-bits/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0190-reverse-bits/) | Easy |
 <!---LeetCode Topics End-->
