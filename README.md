@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0072-edit-distance](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0072-edit-distance/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -41,4 +42,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0190-reverse-bits/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0072-edit-distance](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0072-edit-distance/) | Medium |
 <!---LeetCode Topics End-->
