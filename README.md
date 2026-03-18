@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0071-simplify-path](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0072-edit-distance/) | Medium |
 | [0434-number-of-segments-in-a-string](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -49,4 +50,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0072-edit-distance](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0072-edit-distance/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0071-simplify-path](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0071-simplify-path/) | Medium |
 <!---LeetCode Topics End-->
