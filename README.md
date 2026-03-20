@@ -26,12 +26,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0072-edit-distance/) | Medium |
+| [0224-basic-calculator](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0224-basic-calculator/) | Hard |
 | [0434-number-of-segments-in-a-string](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0089-gray-code](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0089-gray-code/) | Medium |
+| [0224-basic-calculator](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0224-basic-calculator/) | Hard |
 | [0263-ugly-number](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0263-ugly-number/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -54,4 +56,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0071-simplify-path/) | Medium |
+| [0224-basic-calculator](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0224-basic-calculator/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0224-basic-calculator](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0224-basic-calculator/) | Hard |
 <!---LeetCode Topics End-->
