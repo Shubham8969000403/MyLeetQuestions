@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0075-sort-colors/) | Medium |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0075-sort-colors/) | Medium |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,4 +63,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0224-basic-calculator](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0224-basic-calculator/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 <!---LeetCode Topics End-->
