@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0075-sort-colors/) | Medium |
+| [0125-valid-palindrome](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0125-valid-palindrome/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0072-edit-distance/) | Medium |
+| [0125-valid-palindrome](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0125-valid-palindrome/) | Easy |
 | [0224-basic-calculator](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0224-basic-calculator/) | Hard |
 | [0434-number-of-segments-in-a-string](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
