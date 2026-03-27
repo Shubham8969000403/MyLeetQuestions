@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0007-reverse-integer/) | Medium |
 | [0089-gray-code](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0089-gray-code/) | Medium |
 | [0224-basic-calculator](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0224-basic-calculator/) | Hard |
 | [0263-ugly-number](https://github.com/Shubham8969000403/MyLeetQuestions/tree/main/0263-ugly-number/) | Easy |
